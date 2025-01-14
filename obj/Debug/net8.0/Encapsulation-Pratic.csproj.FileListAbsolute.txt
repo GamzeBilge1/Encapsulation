@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\bin\Debug\net8.0\Encapsulation-Pratic.exe
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\bin\Debug\net8.0\Encapsulation-Pratic.deps.json
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\bin\Debug\net8.0\Encapsulation-Pratic.runtimeconfig.json
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\bin\Debug\net8.0\Encapsulation-Pratic.dll
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\bin\Debug\net8.0\Encapsulation-Pratic.pdb
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\Encapsulation-Pratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\Encapsulation-Pratic.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\Encapsulation-Pratic.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\Encapsulation-Pratic.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\Encapsulation-Pratic.sourcelink.json
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\Encapsulation-Pratic.dll
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\refint\Encapsulation-Pratic.dll
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\Encapsulation-Pratic.pdb
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\Encapsulation-Pratic.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Encapsulation-Pratic\Encapsulation-Pratic\obj\Debug\net8.0\ref\Encapsulation-Pratic.dll
